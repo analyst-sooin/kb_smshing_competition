@@ -14,3 +14,6 @@
 ![rule](https://user-images.githubusercontent.com/59334939/75552401-9248ab00-5a79-11ea-95eb-28df5e89b893.png)
 
 
+***
+
+"*" 첫 번쨰 제출 
