@@ -12,3 +12,5 @@
 ###### 총 상금 2,000만원의 대회이니 좀 규모가 있고 그 만큼 참가자들도 많았다.
 
 ![rule](https://user-images.githubusercontent.com/59334939/75552401-9248ab00-5a79-11ea-95eb-28df5e89b893.png)
+
+
