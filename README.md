@@ -4,11 +4,11 @@
 
 ![competition_plan](https://user-images.githubusercontent.com/59334939/75552392-8e1c8d80-5a79-11ea-93c5-d79909f3f201.png)
 
-#######주최 : KB금융지주 ,Dacon,KISA 주관: Dacon
+######주최 : KB금융지주 ,Dacon,KISA 주관: Dacon
 
 
 ![reward](https://user-images.githubusercontent.com/59334939/75552399-907ee780-5a79-11ea-897e-fea56aa787fd.png)
 
-####### 총 상금 2,000만원의 대회이니 좀 규모가 있고 그 만큼 참가자들도 많았다.
+###### 총 상금 2,000만원의 대회이니 좀 규모가 있고 그 만큼 참가자들도 많았다.
 
 ![rule](https://user-images.githubusercontent.com/59334939/75552401-9248ab00-5a79-11ea-95eb-28df5e89b893.png)
