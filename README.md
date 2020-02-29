@@ -4,7 +4,7 @@
 
 ![competition_plan](https://user-images.githubusercontent.com/59334939/75552392-8e1c8d80-5a79-11ea-93c5-d79909f3f201.png)
 
-######주최 : KB금융지주 ,Dacon,KISA 주관: Dacon
+###### 주최 : KB금융지주 ,Dacon,KISA 주관: Dacon
 
 
 ![reward](https://user-images.githubusercontent.com/59334939/75552399-907ee780-5a79-11ea-897e-fea56aa787fd.png)
